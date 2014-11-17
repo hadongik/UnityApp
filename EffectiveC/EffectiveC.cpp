@@ -11,6 +11,7 @@ int gInt2 = 5;
 void Print1()
 {
 	printf("test");
+	printf("second test");
 };
 
 class App1
